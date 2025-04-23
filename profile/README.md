@@ -8,7 +8,7 @@ Here's a list of the packages currently available:
 
 ### ✨ Core Functionality
 
-* **Quantum.Branch**: Improves branching logic. (Add a brief description of its specific purpose)
+* **Quantum.Branch**: Improves branching logic. (Support scenarios for multi-copany or multi-branching)
 * **Quantum.Core**: Provides fundamental building blocks for other Quantum packages.
 * **Quantum.DataFlow**: Facilitates data processing pipelines.
 * **Quantum.Dispatcher**: Improves command dispatching.
@@ -67,7 +67,7 @@ Here's a list of the packages currently available:
 ### 🛠️ Miscellaneous
 
 * **Quantum.ExceptionHandler**: Provides exception handling mechanisms.
-* **Quantum.MonkeyPatch**: (Add a brief description - this name suggests advanced/potentially risky techniques)
+* **Quantum.MonkeyPatch**://TODO
 * **Quantum.MultiTenant**: Support for multi-tenant applications.
 * **Quantum.PolicyProvider**: Provides policy management capabilities.
 * **Quantum.ReportingTemplate**: Provides a base template for reporting
@@ -76,7 +76,7 @@ Here's a list of the packages currently available:
 * **Quantum.ServiceDiscovery.Extensions**: Extensions for Service Discovery
 * **Quantum.ServiceDiscovery.SqlServer**: SQL Server implementation for Service Discovery
 * **Quantum.ServiceDiscovery.Tests**: Test utilities for Service Discovery
-* **Quantum.Services**: (Add a brief description)
+* **Quantum.Services**: //TODO
 
 ## 🚀 Getting Started
 
@@ -87,7 +87,7 @@ Install-Package Quantum.Configurator
 ```
 
 ## 🤝 Contributing
-We welcome contributions to the Quantum Space project! If you'd like to contribute, please read our Contributing Guidelines.
+We welcome contributions to the Quantum Space project! If you'd like to contribute, please read our [Contributing Guidelines](Contributing.md).
 
 ## 🧑‍🤝‍🧑 Contributors & Maintainers
 A big thank you to our contributors and maintainers who keep this project going! 
