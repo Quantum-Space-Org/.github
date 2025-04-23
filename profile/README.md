@@ -100,19 +100,6 @@ Or, you can also support us through GitHub Sponsors.
 
 ## 💬 Code of Conduct
 
-## Contributing Guidelines
-Thank you for considering contributing to the Quantum Space project! We welcome contributions of all kinds, including bug fixes, new features, and documentation improvements.
-How to Contribute
-1.	Fork the repository: Start by forking the repository to your own GitHub account.
-o	Fork the repository
-2.	Create a branch: Create a new branch for your changes. Use a descriptive branch name (e.g., feature/new-feature, bugfix/fix-bug).
-o	git checkout -b feature/new-feature
-3.	Make your changes: Make your changes in your branch.
-4.	Write tests: If you're adding a new feature or fixing a bug, please write tests to cover your changes.
-5.	Commit your changes: Commit your changes with a clear and concise commit message.
-o	git commit -m "Add new feature"
-6.	Create a pull request: Create a pull request to the main branch of the original repository.
-o	Create a pull request
 ## Code Style
 Please follow the code style used in the project.
 ##  Commit Messages
