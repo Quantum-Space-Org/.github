@@ -96,10 +96,10 @@ A big thank you to our contributors and maintainers who keep this project going!
 Your support helps us maintain and improve these libraries. Consider donating to our Open Collective: 
 Or, you can also support us through GitHub Sponsors.
 ##  📄 License
-(Add License information here - e.g., MIT License)
+
 
 ## 💬 Code of Conduct
-(Add Code of Conduct information here - e.g., Contributor Covenant Code of Conduct)
+
 ## Contributing Guidelines
 Thank you for considering contributing to the Quantum Space project! We welcome contributions of all kinds, including bug fixes, new features, and documentation improvements.
 How to Contribute
