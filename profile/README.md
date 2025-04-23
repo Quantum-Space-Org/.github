@@ -117,11 +117,12 @@ o	Create a pull request
 Please follow the code style used in the project.
 ##  Commit Messages
 Please use clear and concise commit messages. A good commit message should include:
-•	A brief summary of the changes (in the first line).
-•	A more detailed description of the changes (in the body).
-•	A reference to the issue that the changes address (if applicable).
+  *	A brief summary of the changes (in the first line).
+  *	A more detailed description of the changes (in the body).
+  *	A reference to the issue that the changes address (if applicable).
+    
 Example:
-
+```
 Fix: Bug in data processing
 
 This commit fixes a bug in the data processing module that caused incorrect results.
@@ -129,4 +130,5 @@ The bug was caused by an incorrect calculation in the process_data function.
 This commit also adds a new test case to ensure that the bug is fixed.
 
 Closes #12
+```
 
