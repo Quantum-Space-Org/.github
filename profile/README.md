@@ -1,12 +1,12 @@
-# 🚀 Quantum Space Organization 🌌
+# Quantum Space Organization
 
 Welcome to the Quantum Space Organization on GitHub! This organization hosts a collection of .NET libraries and frameworks designed to help you build robust, scalable, and maintainable applications.
 
-## 📦 Core Packages
+##  Core Packages
 
 Here's a list of the packages currently available:
 
-### ✨ Core Functionality
+### Core Functionality
 
 * **Quantum.Branch**: Improves branching logic. (Support scenarios for multi-copany or multi-branching)
 * **Quantum.Core**: Provides fundamental building blocks for other Quantum packages.
@@ -16,12 +16,12 @@ Here's a list of the packages currently available:
 * **Quantum.ProductInfo**: Manages product information.
 * **Quantum.Specification**: Implements the Specification pattern.
 
-### ⚙️ Configuration
+### Configuration
 
 * **Quantum.Configurator**: Handles application configuration.
 * **Quantum.ConfigurationManagement**: Handles complex configuration scenarios.
 
-### ✉️ Concurrency and Messaging
+### Concurrency and Messaging
 
 * **Quantum.CorrelationId**: Generates and propagates correlation IDs for distributed tracing.
 * **Quantum.InboxOutbox**: Provides implementations for the Inbox/Outbox pattern.
@@ -34,7 +34,7 @@ Here's a list of the packages currently available:
 * **Quantum.Sequencer**: Handles sequential processing of operations.
 * **Quantum.TimeSequencer**: Handles time-based sequential processing.
 
-### 🗄️ Data and Storage
+### Data and Storage
 
 * **Quantum.DataBase**: Provides base classes and utilities for database interactions.
 * **Quantum.Epoch**: Handles epoch-based operations.
@@ -47,24 +47,24 @@ Here's a list of the packages currently available:
 * **Quantum.EventSourcing.Versioning**: Support for event versioning.
 * **Quantum.Snowflake**: Implements the Snowflake ID generation algorithm.
 
-### 💉 Dependency Injection and Resolution
+### Dependency Injection and Resolution
 
 * **Quantum.Resolver**: Abstractions for dependency resolution.
 * **Quantum.Resolver.Autofac**: Integration with the Autofac DI container.
 * **Quantum.Resolver.ServiceCollection**: Integration with the Microsoft.Extensions.DependencyInjection.
 
-### 🌐 Internationalization
+### Internationalization
 
 * **Quantum.I18n**: Provides internationalization (i18n) support.
 
-### 🪵 Logging and Telemetry
+### Logging and Telemetry
 
 * **Quantum.Logging**: Abstractions for logging.
 * **Quantum.Logging.SqlServer**: SQL Server logging provider.
 * **Quantum.OpenTelemetry**: Integration with OpenTelemetry.
 * **Quantum.Telemetry.HealthCheck**: Provides health check endpoints.
 
-### 🛠️ Miscellaneous
+### Miscellaneous
 
 * **Quantum.ExceptionHandler**: Provides exception handling mechanisms.
 * **Quantum.MonkeyPatch**://TODO
@@ -78,7 +78,7 @@ Here's a list of the packages currently available:
 * **Quantum.ServiceDiscovery.Tests**: Test utilities for Service Discovery
 * **Quantum.Services**: //TODO
 
-## 🚀 Getting Started
+## Getting Started
 
 To get started with any of these packages, you can install them via NuGet. For example, to install `Quantum.Configurator`, you would use the following command in the NuGet Package Manager Console:
 
@@ -86,19 +86,19 @@ To get started with any of these packages, you can install them via NuGet. For e
 Install-Package Quantum.Configurator
 ```
 
-## 🤝 Contributing
+## Contributing
 We welcome contributions to the Quantum Space project! If you'd like to contribute, please read our [Contributing Guidelines](Contributing.md).
 
-## 🧑‍🤝‍🧑 Contributors & Maintainers
+## Contributors & Maintainers
 A big thank you to our contributors and maintainers who keep this project going! 
 
-## 💖 Supporting
+## Supporting
 Your support helps us maintain and improve these libraries. Consider donating to our Open Collective: 
 Or, you can also support us through GitHub Sponsors.
-##  📄 License
+##  License
 
 
-## 💬 Code of Conduct
+## Code of Conduct
 
 ## Code Style
 Please follow the code style used in the project.
